@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ELE0124CL_library")(type "KiCad")(uri "${KIPRJMOD}/../../library/footprints/ELE0124CL_library.pretty")(options "")(descr "Convertidores DC-DC Aplicaciones Prácticas"))
+)

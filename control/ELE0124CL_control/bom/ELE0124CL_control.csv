@@ -1,0 +1,6 @@
+"Reference";"Value";"Qty";"Descripción"
+"C1-C2-C3-C4-C5-C6-C7-C8";"0,1 uF";"8";"Capacitor Ceramic 0.1 uF 0603"
+"J1-J3";"M20-7821646";"2";"Hardwin Connector Socket 1x16 Vertical"
+"J2";"878311620";"1";"Molex Connector Socket 2x08 Vertical"
+"R1-R2-R3-R4-R5-R6-R7";"100 Ohm";"7";"Resistor 100 Ohm 0603"
+"U1";"SN74AHCT367PWR";"1";"Texas Instrument Hex Buffer and Line Driver with 3-State Output"
